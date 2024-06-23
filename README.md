@@ -6,8 +6,8 @@
 ### Connect with me:
 
 
-<a href="https://via-ventura.com" align="left">
-    <img alt="via ventura" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<a href="https://via-ventura.com" style="margin-right:20px;" align="left">
+    <img alt="via ventura" width="30px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 </a>
 <a href="https://youtube.com/@doublej8822" align="left">
     <img alt="youtube" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
