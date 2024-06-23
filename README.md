@@ -1,6 +1,21 @@
 # 👨‍💻 Jovan Jokic
 
 **`Applied Computer Science Student`**
+#
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://via-ventura.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://via-ventura.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/@doublej8822#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@doublej8822#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jovanj01#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jovanj01#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/jovanj01#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/jovanj01#gh-dark-mode-only)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
