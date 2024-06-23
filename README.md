@@ -1,6 +1,9 @@
 # 👨‍💻 Jovan Jokic
 
 **`Applied Computer Science Student`**
+
+Hello, I'm Jovan Jokic from Serbia, currently a fourth-year student at the University of Novi Sad. Here you can see the technologies I have worked with so far, as well as some of the projects I am most proud of.
+
 #
 
 ### Connect with me:
