@@ -21,6 +21,4 @@
 #
 
 ### 📊 Stats
-![Jovan's GitHub stats](<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanj01&show_icons=true&locale=en&layout=compact" alt="jovanj01" /></p>)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+[![Jovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovanj01)](https://github.com/jovanj01/github-readme-stats)
