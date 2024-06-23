@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://via-ventura.com#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg")](https://via-ventura.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://via-ventura.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/@doublej8822#gh-light-mode-only)
