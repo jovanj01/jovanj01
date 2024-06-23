@@ -1,3 +1,3 @@
 # 👨‍💻 Jovan Jokic
 
-**Applied Computer Science Student**
+**`Applied Computer Science Student`**
