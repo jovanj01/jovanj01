@@ -9,6 +9,15 @@
 <a href="https://via-ventura.com" style="padding-right:10px;" align="left">
     <img alt="via ventura" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 </a>
+<a href="https://youtube.com/@doublej8822" style="padding-right:10px;" align="left">
+    <img alt="via ventura" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</a>
+<a href="https://linkedin.com/in/jovanj01" style="padding-right:10px;" align="left">
+    <img alt="via ventura" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</a>
+<a href="https://instagram.com/jovanj01" style="padding-right:10px;" align="left">
+    <img alt="via ventura" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</a>
 
 
 <br />
