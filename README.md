@@ -6,20 +6,21 @@
 ### Connect with me:
 
 
-<a href="https://via-ventura.com" align="left">
-    <img alt="via ventura" width="30px" style="margin-right: 15px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
-</a>
-<a href="https://youtube.com/@doublej8822" align="left">
-    <img alt="YouTube" width="30px" style="margin-right: 15px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/YouTube_social_media_logo_%282013-2017%29.svg"/>
-</a>
-<a href="https://linkedin.com/in/jovanj01" align="left">
-    <img alt="LinkedIn" width="30px" style="margin-right: 15px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
-</a>
-<a href="https://instagram.com/jovanj01" align="left">
-    <img alt="Instagram" width="30px" style="margin-right: 15px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
+<a href="https://via-ventura.com">
+    <img alt="via ventura" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
 </a>
 
+<a href="https://youtube.com/@doublej8822">
+    <img alt="YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/YouTube_social_media_logo_%282013-2017%29.svg"/>
+</a>
 
+<a href="https://linkedin.com/in/jovanj01">
+    <img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
+</a>
+
+<a href="https://instagram.com/jovanj01">
+    <img alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
+</a>
 
 
 <br />
