@@ -6,7 +6,10 @@
 ### Connect with me:
 
 
-<img href="https://via-ventura.com" style="padding-right:10px;" alt="via ventura" align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<a href="https://via-ventura.com" style="padding-right:10px;" align="left">
+    <img alt="via ventura" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</a>
+
 
 <br />
 
