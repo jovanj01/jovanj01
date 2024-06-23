@@ -21,4 +21,4 @@
 #
 
 ### 📊 Stats
-![Jovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovanj01&show_icons=true&theme=radical&count_private=true&include_all_commits=true&include_all_repos=true&hide=stars,issues)
+[![Jovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovanj01)](https://github.com/jovanj01/github-readme-stats)
