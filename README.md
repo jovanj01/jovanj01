@@ -20,6 +20,8 @@
 
 #
 
-### 📊 Stats
+### 📊 Stats & Top Languages
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=jovanj01&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanj01"/>
 
