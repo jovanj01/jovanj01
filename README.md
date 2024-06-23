@@ -21,7 +21,7 @@
 #
 
 ### 📊 Stats & Top Languages
-<img alt="my stats" src="https://jovanj01.vercel.app/api?username=jovanj01&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues"/>
+<img alt="my stats" src="https://jovanj01-dici.vercel.app/api?username=jovanj01&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues"/>
 
-<img alt="my langs" src="https://jovanj01.vercel.app/api/top-langs/?username=jovanj01&layout=compact"/>
+<img alt="my langs" src="https://jovanj01-dici.vercel.app/api/top-langs/?username=jovanj01&layout=compact"/>
 
