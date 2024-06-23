@@ -10,7 +10,7 @@
     <img alt="via ventura" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
 </a>
 <a href="https://youtube.com/@doublej8822" align="left">
-    <img alt="YouTube" width="30px" src="https://commons.wikimedia.org/wiki/File:YouTube_Logo_2017.svg#/media/File:YouTube_full-color_icon_(2017).svg"/>
+    <img alt="YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"/>
 </a>
 <a href="https://linkedin.com/in/jovanj01" align="left">
     <img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
