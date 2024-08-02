@@ -46,6 +46,4 @@ Hello, I'm Jovan Jokic from Serbia, currently a fourth-year student at the Unive
 
 #
 
-### 📊 Stats & Top Languages
-<img alt="my stats" src="https://github-readme-stats-cyan-alpha.vercel.app/api?username=jovanj01&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,issues"/>
 
