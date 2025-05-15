@@ -1,8 +1,11 @@
 # 👨‍💻 Jovan Jokic
 
-**`Applied Computer Science Student`**
+**`Junior Software Developer | Java / Spring | C# / .NET  | Open to Work`**
 
-Hello, I'm Jovan Jokic from Serbia, currently a fourth-year student at the University of Novi Sad. Here you can see the technologies I have worked with so far, as well as some of the projects I am most proud of.
+Hello, I'm Jovan Jokic from Serbia. I hold a BSc in Electrical and Computer Engineering from the University of Novi Sad.
+I’m passionate about backend/full-stack development and currently focused on building applications using Java (Spring Boot) and C# (.NET).
+
+On this profile, you'll find a showcase of technologies I’ve worked with and projects I’m proud of. I’m currently looking for new opportunities to grow as a developer and contribute to impactful teams.
 
 #
 
